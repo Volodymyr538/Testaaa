@@ -8,7 +8,7 @@ import json
 from datetime import datetime
 
 # ==================== НАСТРОЙКИ ====================
-BOT_TOKEN = "YOUR_BOT_TOKEN"       # @BotFather
+BOT_TOKEN = "8903935395:AAHWLIPYg1yFt0mI9pnZly3STFtblOJ4mCM"       # @BotFather
 WEBHOOK_SECRET = "adonis_secret"   # Секретный ключ (совпадает с Lua скриптом)
 PORT = 8080                        # Порт для HTTP сервера
 # ===================================================
